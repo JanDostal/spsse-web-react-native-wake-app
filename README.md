@@ -6,9 +6,9 @@
 
 # Development info
 
-- App was being developed in the period april 2022
-- App was uploaded from school repository to this repository in may 2022, which was at the end in the last year of secondary school
-- In august 2023, outdated packages were updated, starting from commit [eab9c64](/../../commit/eab9c64c4e8a7047b72ec3e39e251662e9c9fa67)
+- App was being developed in the period April 2022
+- App was uploaded from school repository to this repository in May 2022, which was at the end in the last year of secondary school
+- In August 2023, outdated packages were updated, starting from commit [eab9c64](/../../commit/eab9c64c4e8a7047b72ec3e39e251662e9c9fa67)
 
 # App design
 
